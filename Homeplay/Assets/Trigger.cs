@@ -16,7 +16,14 @@ public class Trigger : MonoBehaviour
     public UnityEvent Event;
     public Renderer _renderer;
 
-    //I looked at many other peoples codes to see how it works but it is different from their codes
+    //I looked at many other peoples codes to see how it works but it is different from their codes and jetbrains helped experiment with it
+    private void Awake()
+    {
+        _renderer = GetComponent<Renderer>();
+        
+        print("A Or B For Color Change Or slam into sphere");
+    }
+
     public void OnTriggerEnter(Collider other)
     {
         print(other.name);
@@ -24,28 +31,27 @@ public class Trigger : MonoBehaviour
 
             Event.Invoke();
         GetComponent<Renderer>().material.color = Color.yellow;
-        Debug.Log("Bow Collided with Sphere" + other.gameObject.name);
+        Debug.Log("You Have Become Yellow");
     }
 
 
-    // So i finally got the top part to work but to get it to be blue by press B will be a work in progress for tomorrow
-    //So ive been editing and changing my code like crazy since 3:00 so im gonna finish it tomorrow but im proud of myself
-//    public void Start()
-//    {
-//        if(Input.GetKeyDown(KeyCode.B))
-//            GetComponent<Renderer> ().material.color = Color.blue;
-//        print("Press B For Blue Collied For Yellow");
-//        
-//    }
+    
+    public void Start()
+    {
+        
+   }
 
 
 
 //I went back to my tutorial Code #1 to figure out how to use the color thing in this code just a fyi
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.B))
+            _renderer.material.color = Color.blue;
+        if (Input.GetKeyDown(KeyCode.A))
+            _renderer.material.color = Color.cyan;
 
 
-        
     }
 }
   
