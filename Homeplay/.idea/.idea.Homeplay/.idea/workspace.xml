@@ -13,11 +13,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Trigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Particle.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Trigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Particle.cs" />
       </list>
     </option>
   </component>
@@ -76,6 +78,8 @@
       <updated>1567719202389</updated>
       <workItem from="1567719205596" duration="9409000" />
       <workItem from="1567820115325" duration="1798000" />
+      <workItem from="1568082006017" duration="25000" />
+      <workItem from="1568082042234" duration="7733000" />
     </task>
     <servers />
   </component>
