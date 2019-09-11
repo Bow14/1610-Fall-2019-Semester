@@ -27,3 +27,7 @@ so im probably gonna experiment right now
 I now understand how triggerenter can be used for many things.
 Now i know how to assign some the renderer to my color scheme and such at least more fluently 
 Did my First experiment for my project and it went horrible then super well. Tomorrow it will be a different one
+
+Learned what a override void is do and i believe it is used for the use of power up code it is also used to extend a method or event type stuff (Not 100% on these three stuff gonna go to the lab thursday)
+Abstract int is used for support class where other derived classes would do the other part?
+So for the collider on the shape to work for power ups you need to put the shap in a class?
