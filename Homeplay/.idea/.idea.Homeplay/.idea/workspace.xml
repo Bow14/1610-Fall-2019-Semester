@@ -4,10 +4,13 @@
     <list default="true" id="c290bf80-d425-4cc6-a7d2-6e2111578496" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Practice.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HealthDown.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HealthDown.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HealthUp.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HealthUp.asset.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +23,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/PowerupHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DogClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/OnMouseClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/onTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Powerups.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Health.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -33,6 +41,11 @@
         <option value="$PROJECT_DIR$/Assets/PowerupHolder.cs" />
         <option value="$PROJECT_DIR$/Assets/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/OnMouseClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/onTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/DogClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/CatClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/ParticleControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
       </list>
     </option>
   </component>
@@ -93,7 +106,7 @@
       <workItem from="1567820115325" duration="1798000" />
       <workItem from="1568082006017" duration="25000" />
       <workItem from="1568082042234" duration="7733000" />
-      <workItem from="1568311847119" duration="1645000" />
+      <workItem from="1568311847119" duration="3858000" />
     </task>
     <servers />
   </component>
