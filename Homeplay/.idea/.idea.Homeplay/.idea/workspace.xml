@@ -38,7 +38,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../HomeProject/Assets/Tut3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sytutorial.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -54,6 +54,7 @@
         <option value="$PROJECT_DIR$/Assets/CatClass.cs" />
         <option value="$PROJECT_DIR$/Assets/ParticleControl.cs" />
         <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sytutorial.cs" />
       </list>
     </option>
   </component>
@@ -115,6 +116,7 @@
       <workItem from="1568082006017" duration="25000" />
       <workItem from="1568082042234" duration="7733000" />
       <workItem from="1568311847119" duration="4069000" />
+      <workItem from="1568606338141" duration="1154000" />
     </task>
     <servers />
   </component>

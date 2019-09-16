@@ -5168,6 +5168,7 @@ GameObject:
   - component: {fileID: 810562546}
   - component: {fileID: 810562545}
   - component: {fileID: 810562544}
+  - component: {fileID: 810562548}
   m_Layer: 0
   m_Name: Capsule
   m_TagString: Untagged
@@ -5243,6 +5244,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &810562548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 810562543}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e984915a5c6056b4db433f4f2b9d08a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &822095075
 GameObject:
   m_ObjectHideFlags: 0
@@ -10210,6 +10222,7 @@ GameObject:
   - component: {fileID: 2090857666}
   - component: {fileID: 2090857665}
   - component: {fileID: 2090857670}
+  - component: {fileID: 2090857671}
   m_Layer: 0
   m_Name: Dog
   m_TagString: Untagged
@@ -10312,3 +10325,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   particles: {fileID: 386259038}
+--- !u!114 &2090857671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2090857664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1de643071cee34996857ae8b43c58255, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  doesStuff:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
