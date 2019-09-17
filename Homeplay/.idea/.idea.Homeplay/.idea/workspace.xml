@@ -2,30 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c290bf80-d425-4cc6-a7d2-6e2111578496" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../HomeProject/.idea/.idea.HomeProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeProject/.idea/.idea.HomeProject/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeProject/.idea/.idea.HomeProject/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeProject/.idea/.idea.HomeProject/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeProject/.idea/.idea.HomeProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeProject/.idea/.idea.HomeProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeProject/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeProject/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeProject/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeProject/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Movement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Practice/IfTuto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Practice/IfTuto.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Practice/Sytutorial.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Practice/Sytutorial.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityLockfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-1123876e87c1b42ea95b26da248c9311" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-115b95364c438466e948d45d706987ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-1438adeb0cd54424d9260d34cc008efb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-147cb495a85d047ef8d178eb9b3b4784" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-1f48d9474127348ae95718922f4891de" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-2b553ba35d1ed4ae1a3312a017f57dc6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-2bbae905d49a0476f9f539498dac54be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-38ed84ada485f4272a157450e8a01d93" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-44f791966858a406f8e98a324ac11146" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-52f309ba8324f40d19e4bea39511e585" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-55b2512b2d57046068d0935d29604b99" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-6d20bdc6f4dbc4c3980709a521b02717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-747506fe8f4a94139a49e3ad826300a6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-7b333abf9353344c1b4947b768f60ef5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-7d3538fe7abe44f889111e61a89eb621" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-7f642115a3a8943bb89ba62f3ccec52a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-8fd6fe75145794a0cac2841ce02ff4ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-903042ad28d324572be133715778fe8c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-96fba77b1c03447348fa2ad4d80855d3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-a43cb3934c469447e8f90afc38a9ebcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-b60a037f3194d4706a3fe1b28c70ba93" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-c5837d76c10f445f68b06c5446c626ed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-cebe854c977a74230bc136975b2e49a8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-d5d91d5c7a0ff46709f4b1ac73850406" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-de1452d7a64804fb3bfd3034970f6366" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-e840eac00f5ec4bf9865a0576d82be2b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-e9720a3648ee3496f92a1c13f71a8abf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-ebab2002c28c842bb86f66b943faeb7d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-f3bd6633b48cb49ff89babedd87efb7c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-f5e330b148f124d548f3acb40881a517" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-f84ffa84a0c78413f848479c37beebd2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-f9f887b700e5b4c8faff5ef1d04be62a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CatClass.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CatClass.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DogClass.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DogClass.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Health.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Health.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MouseEvents.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MouseEvents.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OnMouseClick.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OnMouseClick.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ParticleControl.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ParticleControl.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PowerupHolder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PowerupHolder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Powerups.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Powerups.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/onTrigger.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/onTrigger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IfTuto.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IfTuto.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sytutorial.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sytutorial.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +62,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/IfTuto.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Sytutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -57,12 +80,18 @@
         <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Sytutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/IfTuto.cs" />
+        <option value="$PROJECT_DIR$/Assets/Movment.cs" />
+        <option value="$PROJECT_DIR$/Assets/movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Movement.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1QR2gqIDpuQN5e8FtyB2L2A18uk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -121,6 +150,7 @@
       <workItem from="1568606338141" duration="1154000" />
       <workItem from="1568607856490" duration="1022000" />
       <workItem from="1568692211811" duration="1466000" />
+      <workItem from="1568753078339" duration="3033000" />
     </task>
     <servers />
   </component>
@@ -143,13 +173,15 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="795" y="226" key="RiderGenerateDialog" />
     <state x="795" y="226" key="RiderGenerateDialog/1920.1080/1920.1080" />
-    <state x="445" y="162" key="SettingsEditor" />
+    <state x="333" y="162" key="SettingsEditor" />
     <state x="445" y="162" key="SettingsEditor/1920.1080/1920.1080" />
+    <state x="333" y="162" key="SettingsEditor/3360.2100" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
