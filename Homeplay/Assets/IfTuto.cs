@@ -2,13 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Theif : MonoBehaviour {
+public class IfTuto : MonoBehaviour {
 	
-	// Update is called once per frame
+	//Update is called once per frame
 	//unity tutorial to understand if statements to use in experimental code
 	
-	//Work in progress
-/*	private float coffeeTemperature = 85.0f;
+private float coffeeTemperature = 85.0f;
 	private float hotlimitTemperature = 70.0f;
 	private float coldLimitTemperature = 40.0f;
 	
@@ -19,10 +18,25 @@ public class Theif : MonoBehaviour {
 		coffeeTemperature -= Time.deltaTime * 5f;
 
 
-	}*/
+	}
 
-//	private void TemperatureTest()
-//	{
-//		throw new System.NotImplementedException();
-//	}
-}
+private void TemperatureTest()
+	{
+		if (coffeeTemperature > hotlimitTemperature)
+		{
+			print("Coffee is too hot.");
+		}
+
+		
+		else if(coffeeTemperature < coldLimitTemperature)
+		{
+			print("Coffee is too cold!");
+		}
+		else
+		{
+			print("Coffee is just right!");
+		}
+	}
+	}
+
+ 
