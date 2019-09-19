@@ -286,7 +286,8 @@
 -define:UNITY_EDITOR_OSX
 -define:ENABLE_UNITY_COLLECTIONS_CHECKS
 -define:UNITY_TEAM_LICENSE
-'Assets/movement.cs'
+'Assets/Damove.cs'
+'Assets/Movement.cs'
 'Assets/Practice/CatClass.cs'
 'Assets/Practice/DogClass.cs'
 'Assets/Practice/Health.cs'
