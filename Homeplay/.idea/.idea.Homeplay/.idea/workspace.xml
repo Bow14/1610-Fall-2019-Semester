@@ -2,12 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c290bf80-d425-4cc6-a7d2-6e2111578496" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-5f210daffda7840d7b82b85d8374bddc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-7bf09e35ecbab4b1a9a3beb224efcda1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-f825959e4dbb4438aaea7d206f841515" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/DoLoopTutorial.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-0883b808f05a84a62aeced49071a0358" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-16d934002089e46328a5710ab0040c62" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-1d65377f5d3ef4ecfbf27b02d0afdce6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-2d6d8bc8e6544480fb5be59caa7a2754" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-3753c70f5a9104f3995f508a718a0d12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-44c449d0daf6f4dc78134ad101e79dad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-6c9246ee28dc94536b14e016ac2ea734" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-72f96f619bf744255bd146e21b69cec6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-7fdac1f4308c84245b4de638a5a17ebf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-8e2ac31f45db848edaf09380e4db07f7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-8ead2805c4b934cdfa744b30838f32a6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-9df7535b7483e4d2da0b2c2a6c4814d0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-a422ab17a52ed4e78bc328863f8a7d68" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-b82bebdb50c744bef9ea181bb63c28e6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-bc2de16019ab349729f5398372815f56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-c52f5bf0db1b2405baf1066d26d9efd5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-c813a27b8ba664258a193cce9461e67d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-de9f7c7c3f19944f8be47f5122330e9c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-df29358d037814e97a5235b4382f4068" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-e5099fc5ca575427f8d80381e2ec49cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-f77e52cc6b12741e6bc1a4b9d0d1cfc7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homeplay/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Damove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Damove.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +40,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/DoLoopTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Damove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WhileLoopTutoiral.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,6 +65,8 @@
         <option value="$PROJECT_DIR$/Assets/movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Damove.cs" />
+        <option value="$PROJECT_DIR$/Assets/WhileLoopTutoiral.cs" />
+        <option value="$PROJECT_DIR$/Assets/DoLoopTutorial.cs" />
       </list>
     </option>
   </component>
@@ -109,7 +134,9 @@
       <workItem from="1568606338141" duration="1154000" />
       <workItem from="1568607856490" duration="1022000" />
       <workItem from="1568692211811" duration="1466000" />
-      <workItem from="1568753078339" duration="7099000" />
+      <workItem from="1568753078339" duration="7340000" />
+      <workItem from="1568987872487" duration="803000" />
+      <workItem from="1569042565133" duration="1200000" />
     </task>
     <servers />
   </component>
@@ -138,9 +165,12 @@
   <component name="WindowStateProjectService">
     <state x="795" y="226" key="RiderGenerateDialog" />
     <state x="795" y="226" key="RiderGenerateDialog/1920.1080/1920.1080" />
+    <state x="795" y="226" key="RiderGenerateDialog/3360.2100" />
     <state x="333" y="162" key="SettingsEditor" />
     <state x="445" y="162" key="SettingsEditor/1920.1080/1920.1080" />
     <state x="333" y="162" key="SettingsEditor/3360.2100" />
+    <state x="503" y="231" width="672" height="678" key="search.everywhere.popup" />
+    <state x="503" y="231" width="672" height="678" key="search.everywhere.popup/3360.2100" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

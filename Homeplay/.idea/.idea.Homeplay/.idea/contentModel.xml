@@ -6,6 +6,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Damove.cs" t="Include" />
+        <e p="DoLoopTutorial.cs" t="Include" />
         <e p="Movement.cs" t="Include" />
         <e p="Plugins" t="Include">
           <e p="Particle.cs" t="Include" />
@@ -24,6 +25,7 @@
           <e p="Powerups.cs" t="Include" />
           <e p="Sytutorial.cs" t="Include" />
         </e>
+        <e p="WhileLoopTutoiral.cs" t="Include" />
       </e>
       <e p="Homeplay.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
