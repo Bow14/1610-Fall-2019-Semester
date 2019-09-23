@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour {
+public class DoLoopTutorial : MonoBehaviour {
 	//This is Do loop tutorial from unity hopefully will help for later experiments
 	// Use this for initialization
 	
