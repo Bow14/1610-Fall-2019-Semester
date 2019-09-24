@@ -40,12 +40,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/WhileLoopTutoiral.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Damove.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ForeachLoop.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ForwhileloopTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/DoLoopTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/gravityDisabled.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,6 +67,8 @@
         <option value="$PROJECT_DIR$/Assets/DoLoopTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/ForwhileloopTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/ForeachLoop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gravityoff.cs" />
+        <option value="$PROJECT_DIR$/Assets/gravityDisabled.cs" />
       </list>
     </option>
   </component>
@@ -142,6 +140,8 @@
       <workItem from="1568987872487" duration="803000" />
       <workItem from="1569042565133" duration="1200000" />
       <workItem from="1569208395688" duration="2431000" />
+      <workItem from="1569282989790" duration="3236000" />
+      <workItem from="1569286289802" duration="1212000" />
     </task>
     <servers />
   </component>
