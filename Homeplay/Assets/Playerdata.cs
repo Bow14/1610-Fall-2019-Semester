@@ -14,5 +14,9 @@ public class Playerdata : ScriptableObject
         public float Speed = 2f;
         public float DeathWish = 1f; //Releses his/her true being
         public float Clover = 2f; // Luck pretty much
+        public float Grim = 1f; //Chance to escape death
+        public float Trap = 2; //Chance to disarm traps
+        public float Backpackspace = 8f;
         
+
 }
