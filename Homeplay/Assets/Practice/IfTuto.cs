@@ -7,34 +7,34 @@ public class IfTuto : MonoBehaviour {
 	//Update is called once per frame
 	//unity tutorial to understand if statements to use in experimental code
 	
-private float coffeeTemperature = 85.0f;
-	private float hotlimitTemperature = 70.0f;
-	private float coldLimitTemperature = 40.0f;
+private float normalTemperature = 85.0f;
+	private float HotdayTemperature = 70.0f;
+	private float coldTemperature = 40.0f;
 	
 	void Update ()
 	{
 		if (Input.GetKeyDown(KeyCode.Space))
 			TemperatureTest();
-		coffeeTemperature -= Time.deltaTime * 5f;
+		normalTemperature -= Time.deltaTime * 5f;
 
 
 	}
 
 private void TemperatureTest()
 	{
-		if (coffeeTemperature > hotlimitTemperature)
+		if (normalTemperature> HotdayTemperature)
 		{
-			print("Coffee is too hot.");
+			print("Day is too hot.");
 		}
 
 		
-		else if(coffeeTemperature < coldLimitTemperature)
+		else if(normalTemperature < coldTemperature)
 		{
-			print("Coffee is too cold!");
+			print("Day is too cold");
 		}
 		else
 		{
-			print("Coffee is just right!");
+			print("the day is perfect");
 		}
 	}
 	}

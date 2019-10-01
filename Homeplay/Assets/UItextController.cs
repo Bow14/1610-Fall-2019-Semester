@@ -1,0 +1,25 @@
+﻿
+using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.UI;
+
+[RequireComponent(typeof(Text))]
+
+public class UItextController : MonoBehaviour
+{
+	public UnityEvent StarEvent;
+	private Text textLabel;
+	
+	public void UpdateText(intData data)
+	{
+		textLabel.text = data.value.ToString();
+	}
+	
+	void Start ()
+	{
+		textLabel = GetComponent<Text>();
+		
+		StarEvent.Invoke();
+	}
+	
+}

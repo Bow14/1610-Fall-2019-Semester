@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d358ae09faa1349ec97e11cfbf9dd336, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  Health: 10
+  Stamina: 5
+  Armor: 2
+  Color: 0
+  Sanity: 5
+  Speed: 2
+  DeathWish: 1
+  Clover: 2
+  Grim: 1
+  Trap: 2
+  Backpackspace: 8

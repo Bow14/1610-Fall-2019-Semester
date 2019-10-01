@@ -19,7 +19,7 @@ public class Rubber : MonoBehaviour
 
 	private void OnCollisionEnter(Collision other)
 	{
-		Debug.Log("Bounce");
+	
 		rb.AddForce(bouncy);
 	}
 }
