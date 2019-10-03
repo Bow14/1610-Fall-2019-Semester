@@ -7,7 +7,7 @@ using UnityEngine.UI;
 
 public class UItextController : MonoBehaviour
 {
-	public UnityEvent StarEvent;
+	
 	private Text textLabel;
 	
 	public void UpdateText(intData data)
@@ -15,11 +15,10 @@ public class UItextController : MonoBehaviour
 		textLabel.text = data.value.ToString();
 	}
 	
-	void Start ()
+	void Awake ()
 	{
 		textLabel = GetComponent<Text>();
 		
-		StarEvent.Invoke();
 	}
 	
 }

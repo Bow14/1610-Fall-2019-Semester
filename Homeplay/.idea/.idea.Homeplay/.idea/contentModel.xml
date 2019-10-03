@@ -7,6 +7,7 @@
         <e p="AnotherClass.cs" t="Include" />
         <e p="Functions.cs" t="Include" />
         <e p="intData.cs" t="Include" />
+        <e p="MonoEvents.cs" t="Include" />
         <e p="Playerdata.cs" t="Include" />
         <e p="Practice" t="Include">
           <e p="CatClass.cs" t="Include" />
@@ -27,13 +28,14 @@
           <e p="ParticleControl.cs" t="Include" />
           <e p="PowerupHolder.cs" t="Include" />
           <e p="Powerups.cs" t="Include" />
+          <e p="Rubber.cs" t="Include" />
+          <e p="Scopes.cs" t="Include" />
           <e p="statementif.cs" t="Include" />
           <e p="Sytutorial.cs" t="Include" />
           <e p="Trigger.cs" t="Include" />
           <e p="WhileLoopTutoiral.cs" t="Include" />
         </e>
-        <e p="Rubber.cs" t="Include" />
-        <e p="Scopes.cs" t="Include" />
+        <e p="UiImageController.cs" t="Include" />
         <e p="UItextController.cs" t="Include" />
       </e>
       <e p="Homeplay.sln" t="IncludeFlat" />
