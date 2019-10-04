@@ -99,7 +99,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 10
   gravity: 3
-  jumpSpeed: 30
+  jumpSpeed: 60
   jumpCountMax: 2
 --- !u!136 &136330605812362826
 CapsuleCollider:
