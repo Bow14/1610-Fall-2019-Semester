@@ -8,17 +8,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d358ae09faa1349ec97e11cfbf9dd336, type: 3}
-  m_Name: Knight
+  m_Script: {fileID: 11500000, guid: f96b05cd835fb4bbf927bcf03e6e95f3, type: 3}
+  m_Name: GreenBoots
   m_EditorClassIdentifier: 
-  Health: 10
-  Stamina: 5
-  Armor: 2
-  Color: 0
-  Sanity: 5
-  Speed: 2
-  DeathWish: 1
-  Clover: 2
-  Grim: 1
-  Trap: 2
-  Backpackspace: 8
+  sprite: {fileID: 0}
+  color: {r: 1, g: 0, b: 0, a: 1}
+  prefab: {fileID: 0}

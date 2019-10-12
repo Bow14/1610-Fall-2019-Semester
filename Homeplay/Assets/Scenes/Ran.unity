@@ -1680,48 +1680,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 1395383654703844, guid: 46e721911efa04edf9308923c26dbcdf,
     type: 2}
   m_PrefabInternal: {fileID: 1567251469}
---- !u!1001 &1674223523
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4248879438514546, guid: a33d190c5b484444aa8f72b3333f24c7, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0.93
-      objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: a33d190c5b484444aa8f72b3333f24c7, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: -0.32
-      objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: a33d190c5b484444aa8f72b3333f24c7, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: -0.18
-      objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: a33d190c5b484444aa8f72b3333f24c7, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: a33d190c5b484444aa8f72b3333f24c7, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: a33d190c5b484444aa8f72b3333f24c7, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: a33d190c5b484444aa8f72b3333f24c7, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: a33d190c5b484444aa8f72b3333f24c7, type: 2}
-      propertyPath: m_RootOrder
-      value: 16
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: a33d190c5b484444aa8f72b3333f24c7, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &1852614718 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1395383654703844, guid: 46e721911efa04edf9308923c26dbcdf,
