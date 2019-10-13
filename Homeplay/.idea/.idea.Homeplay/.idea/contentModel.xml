@@ -11,6 +11,7 @@
             <e p="DataPlayer.cs" t="Include" />
             <e p="GameArtData.cs" t="Include" />
             <e p="intData.cs" t="Include" />
+            <e p="ObjectData.cs" t="Include" />
             <e p="WeaponData.cs" t="Include" />
           </e>
           <e p="fixedUpTutorial.cs" t="Include" />

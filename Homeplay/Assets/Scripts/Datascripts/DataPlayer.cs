@@ -12,6 +12,7 @@ public class DataPlayer : GameArtData
 
 	public ClothesData pants;
 	public ClothesData shirt;
+	public ClothesData boots;
 	public void InstancePlayer()
 	{
 		var  newPlayer = Instantiate(prefab);

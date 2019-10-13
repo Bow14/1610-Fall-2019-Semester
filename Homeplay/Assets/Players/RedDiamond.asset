@@ -20,3 +20,4 @@ MonoBehaviour:
   health: {fileID: 11400000, guid: fe3cb1f61cbeb415792bf71b4d7c06fa, type: 2}
   pants: {fileID: 11400000, guid: 2c15f1202170143308eaac43196b3de6, type: 2}
   shirt: {fileID: 11400000, guid: 52705d04324a84e23b91dd34d6f556a8, type: 2}
+  boots: {fileID: 11400000, guid: 8df3522d8dec84197be2f101bbb8bcae, type: 2}
