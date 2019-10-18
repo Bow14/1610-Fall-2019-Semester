@@ -47,6 +47,7 @@
           <e p="RedoMovement.cs" t="Include" />
           <e p="UiImageController.cs" t="Include" />
           <e p="UItextController.cs" t="Include" />
+          <e p="VirtualCamera.cs" t="Include" />
         </e>
       </e>
       <e p="Homeplay.sln" t="IncludeFlat" />

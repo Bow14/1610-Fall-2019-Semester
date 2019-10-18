@@ -1,11 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
+
 [CreateAssetMenu]
 
 public class DataPlayer : GameArtData
 {
-
+	public UnityAction<GameObject> instanceAction; 
 	
 	public List<WeaponData> weapons;
 	public Powerups health;
@@ -19,7 +21,8 @@ public class DataPlayer : GameArtData
 		var newSprite = newPlayer.GetComponentInChildren<SpriteRenderer>();
 		newSprite.color = color;
 		newSprite.sprite = sprite;
-		
+		instanceAction(newPlayer);
+
 	}
 }
 
