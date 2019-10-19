@@ -9,9 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ee9d95613f2f74d76afe7115ca850163, type: 3}
-  m_Name: Table
+  m_Name: Pillars
   m_EditorClassIdentifier: 
   sprite: {fileID: 21300000, guid: fafe090da33cd419eaa3e8312834eaae, type: 3}
   color: {r: 0.754717, g: 0.54086715, b: 0.08899963, a: 1}
   prefab: {fileID: 1743776655797498, guid: 9e787bcfc207746668c0eb5fa6ecdfa3, type: 2}
-  durability: 3
+  durability: 8

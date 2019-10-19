@@ -16,8 +16,8 @@ MonoBehaviour:
   prefab: {fileID: 1743776655797498, guid: a33d190c5b484444aa8f72b3333f24c7, type: 2}
   weapons:
   - {fileID: 11400000, guid: 5be500b956cda40f78d12c95530dae56, type: 2}
-  - {fileID: 11400000, guid: 2fe757a0fc47644aabd005941de05277, type: 2}
-  - {fileID: 11400000, guid: 2fe757a0fc47644aabd005941de05277, type: 2}
+  - {fileID: 11400000, guid: aac8546c2d1304a308b951aac54e5c7c, type: 2}
+  - {fileID: 11400000, guid: aac8546c2d1304a308b951aac54e5c7c, type: 2}
   health: {fileID: 11400000, guid: fe3cb1f61cbeb415792bf71b4d7c06fa, type: 2}
   pants: {fileID: 11400000, guid: edd7478e56b814c2b9cf2c453bd84d2a, type: 2}
   shirt: {fileID: 11400000, guid: 88ba6139481fa4b3e85b6f9d3f454d5a, type: 2}
