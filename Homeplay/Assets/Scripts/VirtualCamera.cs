@@ -1,16 +1,25 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Cinemachine;
+[RequireComponent(typeof(CinemachineVirtualCamera))]
+public class VirtualCamera : MonoBehaviour
+{
+	public DataPlayer dataPlayer;
 
-public class VirtualCamera : MonoBehaviour {
+	private void InstanceHandler(GameObject obj)
+	{
+		virtualCamera.Follow = obj.transform;
+	}
 
+	private CinemachineVirtualCamera virtualCamera;
 	// Use this for initialization
-	void Start () {
-		
+	void Awake ()
+	{
+		virtualCamera = GetComponent<CinemachineVirtualCamera>();
+		dataPlayer.instanceAction = InstanceHandler;
+		dataPlayer.InstancePlayer();
 	}
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+	
 }
