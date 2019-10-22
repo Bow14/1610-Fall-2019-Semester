@@ -8,6 +8,11 @@ public class GameArtCollection : ScriptableObject
 
 	public void AddData(GameArtData obj)
 	{
+		if (obj.collected)
+		{
+			collectionList.Add(obj);
+			obj.collected = true;
+		}
 		collectionList.Add(obj);
 	}
 }
