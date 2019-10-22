@@ -456,6 +456,8 @@ GameObject:
   - component: {fileID: 606307038}
   - component: {fileID: 606307037}
   - component: {fileID: 606307036}
+  - component: {fileID: 606307035}
+  - component: {fileID: 606307040}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -463,6 +465,20 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &606307035
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 606307034}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22bc38ea261c0472a96e3443980e2f2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mrbrightsideplaying: 0
+  delusionplaying: 0
+  sickflowplaying: 0
 --- !u!135 &606307036
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -530,6 +546,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &606307040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 606307034}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 640a71579c5094449a9ffdd401d8c0f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  appleirsRipe: 0
+  orangeIsRipe: 0
+  peachIsRipe: 0
 --- !u!1 &613705371
 GameObject:
   m_ObjectHideFlags: 0

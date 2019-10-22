@@ -37,6 +37,7 @@
             <e p="ParticleControl.cs" t="Include" />
             <e p="PowerupHolder.cs" t="Include" />
             <e p="Powerups.cs" t="Include" />
+            <e p="RemadeIF.cs" t="Include" />
             <e p="Rubber.cs" t="Include" />
             <e p="Scopes.cs" t="Include" />
             <e p="statementif.cs" t="Include" />
