@@ -16,4 +16,13 @@ public class GameArtCollection : ScriptableObject
 		}
 
 	}
+
+	public void RemoveLastItem()
+	{
+		if (collectionList.Contains(null))
+		{
+			
+		}
+		collectionList.RemoveAt(collectionList.Count-1);
+	}
 }
