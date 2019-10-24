@@ -8,6 +8,7 @@
           <e p="AnotherClass.cs" t="Include" />
           <e p="Collections" t="Include">
             <e p="GameArtCollection.cs" t="Include" />
+            <e p="Lists.cs" t="Include" />
           </e>
           <e p="Datascripts" t="Include">
             <e p="ClothesData.cs" t="Include" />

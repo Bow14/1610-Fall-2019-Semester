@@ -966,39 +966,6 @@ RectTransform:
   m_AnchoredPosition: {x: -645, y: -34}
   m_SizeDelta: {x: 20, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &966633358 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1743776655797498, guid: 0db93495a7123431f970615cee95ceb8,
-    type: 2}
-  m_PrefabInternal: {fileID: 2112482811}
---- !u!114 &966633359
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 966633358}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e9c093905c0d94895a8b60790d90bfd6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  triggerEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 11400000, guid: 8857f5228f45f4b35833cfbe45f79564, type: 2}
-        m_MethodName: AddData
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: 5be500b956cda40f78d12c95530dae56,
-            type: 2}
-          m_ObjectArgumentAssemblyTypeName: GameArtData, Assembly-CSharp
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!1 &990873176
 GameObject:
   m_ObjectHideFlags: 0
@@ -2333,43 +2300,38 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4248879438514546, guid: 0db93495a7123431f970615cee95ceb8, type: 2}
+    - target: {fileID: 4583417243138944, guid: f2c7a5546620c45f590564d89d1ba750, type: 2}
       propertyPath: m_LocalPosition.x
       value: -15.09
       objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: 0db93495a7123431f970615cee95ceb8, type: 2}
+    - target: {fileID: 4583417243138944, guid: f2c7a5546620c45f590564d89d1ba750, type: 2}
       propertyPath: m_LocalPosition.y
       value: -0.8
       objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: 0db93495a7123431f970615cee95ceb8, type: 2}
+    - target: {fileID: 4583417243138944, guid: f2c7a5546620c45f590564d89d1ba750, type: 2}
       propertyPath: m_LocalPosition.z
       value: -0.31
       objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: 0db93495a7123431f970615cee95ceb8, type: 2}
+    - target: {fileID: 4583417243138944, guid: f2c7a5546620c45f590564d89d1ba750, type: 2}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: 0db93495a7123431f970615cee95ceb8, type: 2}
+    - target: {fileID: 4583417243138944, guid: f2c7a5546620c45f590564d89d1ba750, type: 2}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: 0db93495a7123431f970615cee95ceb8, type: 2}
+    - target: {fileID: 4583417243138944, guid: f2c7a5546620c45f590564d89d1ba750, type: 2}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: 0db93495a7123431f970615cee95ceb8, type: 2}
+    - target: {fileID: 4583417243138944, guid: f2c7a5546620c45f590564d89d1ba750, type: 2}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4248879438514546, guid: 0db93495a7123431f970615cee95ceb8, type: 2}
+    - target: {fileID: 4583417243138944, guid: f2c7a5546620c45f590564d89d1ba750, type: 2}
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 136724831442370606, guid: 0db93495a7123431f970615cee95ceb8,
-        type: 2}
-      propertyPath: m_IsTrigger
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 0db93495a7123431f970615cee95ceb8, type: 2}
+  m_ParentPrefab: {fileID: 100100000, guid: f2c7a5546620c45f590564d89d1ba750, type: 2}
   m_IsPrefabParent: 0

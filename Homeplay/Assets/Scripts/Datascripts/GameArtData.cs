@@ -8,6 +8,5 @@ public class GameArtData : ScriptableObject {
 	public Color color = Color.red;
 	public GameObject prefab;
 
-	public bool collected;
 
 }
