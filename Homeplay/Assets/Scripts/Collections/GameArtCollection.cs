@@ -19,7 +19,7 @@ public class GameArtCollection : ScriptableObject
 
 	public void RemoveLastItem()
 	{
-		if (collectionList.Contains(null))
+		if (!collectionList.Contains(null))
 		{
 			
 		}

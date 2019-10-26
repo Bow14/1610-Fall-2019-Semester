@@ -23,6 +23,7 @@
           <e p="MonoEvents.cs" t="Include" />
           <e p="Ouchi.cs" t="Include" />
           <e p="Practice" t="Include">
+            <e p="AwakeAndStartDifference.cs" t="Include" />
             <e p="CatClass.cs" t="Include" />
             <e p="Damove.cs" t="Include" />
             <e p="DogClass.cs" t="Include" />
