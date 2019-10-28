@@ -48,6 +48,7 @@
             <e p="statementif.cs" t="Include" />
             <e p="Sytutorial.cs" t="Include" />
             <e p="Trigger.cs" t="Include" />
+            <e p="UpdateFixedUpTut.cs" t="Include" />
             <e p="WhileLoopTutoiral.cs" t="Include" />
           </e>
           <e p="RedoMovement.cs" t="Include" />
