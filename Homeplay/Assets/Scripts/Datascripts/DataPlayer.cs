@@ -11,6 +11,7 @@ public class DataPlayer : GameArtData
 	
 	public List<WeaponData> weapons;
 	public Powerups health;
+	public UnityEvent onRunEvent;
 
 	public ClothesData pants;
 	public ClothesData shirt;
@@ -23,6 +24,11 @@ public class DataPlayer : GameArtData
 		newSprite.sprite = sprite;
 		instanceAction(newPlayer);
 
+	}
+
+	public void Run()
+	{
+		onRunEvent.Invoke();
 	}
 }
 
