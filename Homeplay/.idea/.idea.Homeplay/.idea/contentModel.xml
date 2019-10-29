@@ -18,9 +18,13 @@
             <e p="ObjectData.cs" t="Include" />
             <e p="WeaponData.cs" t="Include" />
           </e>
+          <e p="Debugger.cs" t="Include" />
+          <e p="DebuggerHandler.cs" t="Include" />
+          <e p="EnumSwitch.cs" t="Include" />
           <e p="fixedUpTutorial.cs" t="Include" />
           <e p="Functions.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
+          <e p="onTrigger.cs" t="Include" />
           <e p="Ouchi.cs" t="Include" />
           <e p="Practice" t="Include">
             <e p="AwakeAndStartDifference.cs" t="Include" />
@@ -37,7 +41,6 @@
             <e p="MouseEvents.cs" t="Include" />
             <e p="Movement.cs" t="Include" />
             <e p="OnMouseClick.cs" t="Include" />
-            <e p="onTrigger.cs" t="Include" />
             <e p="Particle.cs" t="Include" />
             <e p="ParticleControl.cs" t="Include" />
             <e p="PowerupHolder.cs" t="Include" />
