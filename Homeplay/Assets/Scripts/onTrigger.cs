@@ -8,6 +8,7 @@ public class onTrigger : MonoBehaviour
 {
 
     public UnityEvent triggerEvent, triggerExitEvent;
+    public UnityEvent triggerEnterEvent;
 
     private void Awake()
     {
@@ -17,6 +18,7 @@ public class onTrigger : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         triggerEvent.Invoke();
+        triggerEnterEvent.Invoke();
     }
 
     private void OnTriggerExit(Collider other)
