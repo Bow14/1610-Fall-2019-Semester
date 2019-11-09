@@ -38,6 +38,7 @@
             <e p="AwakeAndStartDifference.cs" t="Include" />
             <e p="CatClass.cs" t="Include" />
             <e p="Damove.cs" t="Include" />
+            <e p="DisableComponetsTut.cs" t="Include" />
             <e p="DogClass.cs" t="Include" />
             <e p="DoLoopTutorial.cs" t="Include" />
             <e p="ForeachLoop.cs" t="Include" />
