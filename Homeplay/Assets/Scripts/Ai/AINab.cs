@@ -21,5 +21,6 @@ public class AINab : MonoBehaviour
 	void Update ()
 	{
 		agent.destination = location.value;
+		
 	}
 }
