@@ -18,6 +18,7 @@
           </e>
           <e p="Coroutine" t="Include">
             <e p="CoRoutines.cs" t="Include" />
+            <e p="SmallCo.cs" t="Include" />
           </e>
           <e p="Datascripts" t="Include">
             <e p="ClothesData.cs" t="Include" />
