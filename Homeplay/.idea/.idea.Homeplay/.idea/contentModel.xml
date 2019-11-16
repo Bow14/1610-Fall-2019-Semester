@@ -17,6 +17,7 @@
             <e p="Lists.cs" t="Include" />
           </e>
           <e p="Coroutine" t="Include">
+            <e p="CoImageText.cs" t="Include" />
             <e p="CoRoutines.cs" t="Include" />
             <e p="SmallCo.cs" t="Include" />
           </e>
