@@ -76,6 +76,7 @@
         </e>
         <e p="Weapons" t="Include">
           <e p="WeaponMaster.cs" t="Include" />
+          <e p="WeaponSwitch.cs" t="Include" />
         </e>
       </e>
       <e p="Homeplay.sln" t="IncludeFlat" />

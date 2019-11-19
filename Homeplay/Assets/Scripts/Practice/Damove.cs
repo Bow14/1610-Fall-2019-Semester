@@ -24,6 +24,19 @@ public class Damove : MonoBehaviour
 	{
 		position.x = moveSpeed*Input.GetAxis("Horizontal");
 		position.y -= gravity;
+		if (Input.GetAxis("Horizontal")> 0)
+		{
+			Vector3 newScale = new Vector3(1,1,1);
+			transform.localScale = newScale;
+		}
+
+		else if (Input.GetAxis("Horizontal")< 0)
+		{
+			Vector3 newScale = new Vector3(-1,1,1);
+			transform.localScale = newScale;
+		}
+		
+		
 
 		if (controller.isGrounded)
 		{
