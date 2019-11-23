@@ -276,6 +276,7 @@ GameObject:
   - component: {fileID: 1269961357}
   - component: {fileID: 1269961356}
   - component: {fileID: 1269961355}
+  - component: {fileID: 1269961359}
   m_Layer: 0
   m_Name: Art
   m_TagString: Untagged
@@ -369,6 +370,34 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1269961353}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1269961359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1269961353}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5efd0bbaaf5774174a84bedbc8db550e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inputEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1269961355}
+        m_MethodName: SetTrigger
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Hop
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  inputWord: Jump
 --- !u!1 &1434924556
 GameObject:
   m_ObjectHideFlags: 0

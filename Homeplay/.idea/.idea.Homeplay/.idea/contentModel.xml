@@ -71,6 +71,9 @@
             <e p="WhileLoopTutoiral.cs" t="Include" />
           </e>
           <e p="RedoMovement.cs" t="Include" />
+          <e p="StateMachine" t="Include">
+            <e p="StateBehaviour.cs" t="Include" />
+          </e>
           <e p="UiImageController.cs" t="Include" />
           <e p="UItextController.cs" t="Include" />
           <e p="VirtualCamera.cs" t="Include" />
