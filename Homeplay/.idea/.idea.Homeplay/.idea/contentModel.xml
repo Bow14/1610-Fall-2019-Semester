@@ -72,6 +72,8 @@
           </e>
           <e p="RedoMovement.cs" t="Include" />
           <e p="StateMachine" t="Include">
+            <e p="GameAction.cs" t="Include" />
+            <e p="GameActionHandler.cs" t="Include" />
             <e p="StateBehaviour.cs" t="Include" />
           </e>
           <e p="UiImageController.cs" t="Include" />
