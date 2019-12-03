@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 946cc695468c04b55af3215b8f3fdc2f, type: 3}
   m_Name: BigSword
   m_EditorClassIdentifier: 
-  sprite: {fileID: 21300000, guid: 7ae30b47c44f444938af7ce73c9725e4, type: 3}
+  sprite: {fileID: 21300000, guid: 2dc87c48e88964721b2790f846dd31d2, type: 3}
   color: {r: 0.45882356, g: 0.97647065, b: 0.29803923, a: 1}
   prefab: {fileID: 1743776655797498, guid: 0db93495a7123431f970615cee95ceb8, type: 2}
   weaponPower: 10
