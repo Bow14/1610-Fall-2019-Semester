@@ -21,5 +21,10 @@ public class Rubber : MonoBehaviour
 	{
 	
 		rb.AddForce(bouncy);
-	}
+}
+//	private void OnCollisionEnter(Collision other)
+//	{
+//	
+//		rb.AddForce(forces.value);
+//	}
 }
