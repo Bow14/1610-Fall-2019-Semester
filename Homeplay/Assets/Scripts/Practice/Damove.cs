@@ -13,6 +13,15 @@ public class Damove : MonoBehaviour
 	public float jumpSpeed = 30f;
 	private int jumpCount;
 	public int jumpCountMax = 2;
+
+	public Animator anin;
+
+	public void ChangeJumpMax()
+	{
+		jumpCountMax = 3;
+	}
+	
+	
 	
 
 	public void Start()
@@ -28,16 +37,33 @@ public class Damove : MonoBehaviour
 		{
 			Vector3 newScale = new Vector3(1,1,1);
 			transform.localScale = newScale;
+			
+			anin.SetBool("IsMoving", true);
+			
 		}
-
 		else if (Input.GetAxis("Horizontal")< 0)
 		{
 			Vector3 newScale = new Vector3(-1,1,1);
 			transform.localScale = newScale;
+			
+			
+			anin.SetBool("IsMoving", true);
+		}
+		else
+		{
+			anin.SetBool("IsMoving", false);
+		}
+
+		if (Input.GetKeyDown(KeyCode.LeftShift))
+		{
+			moveSpeed = 20;
+		}
+
+		if (Input.GetKeyUp(KeyCode.LeftShift))
+		{
+			moveSpeed = 10;
 		}
 		
-		
-
 		if (controller.isGrounded)
 		{
 			position.y = 0;
