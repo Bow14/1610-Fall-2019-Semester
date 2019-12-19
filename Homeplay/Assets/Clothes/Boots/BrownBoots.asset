@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f96b05cd835fb4bbf927bcf03e6e95f3, type: 3}
+  m_Name: BrownBoots
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 7ae30b47c44f444938af7ce73c9725e4, type: 3}
+  color: {r: 1, g: 0.63795877, b: 0, a: 1}
+  prefab: {fileID: 1743776655797498, guid: 6c323c075c2be4225ab58fc9a630812c, type: 2}
