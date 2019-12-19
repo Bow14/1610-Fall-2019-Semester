@@ -158,6 +158,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Tuttwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Tutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Bug.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SetActiveTuto.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -170,6 +171,8 @@
         <option value="$PROJECT_DIR$/Assets/Orital3.cs" />
         <option value="$PROJECT_DIR$/Assets/Debug.cs" />
         <option value="$PROJECT_DIR$/Assets/Bug.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameActiveTut.cs" />
+        <option value="$PROJECT_DIR$/Assets/SetActiveTuto.cs" />
       </list>
     </option>
   </component>
@@ -237,6 +240,8 @@
       <workItem from="1568522651651" duration="158000" />
       <workItem from="1568522831428" duration="525000" />
       <workItem from="1568604907923" duration="1079000" />
+      <workItem from="1576726992224" duration="138000" />
+      <workItem from="1576727163783" duration="98000" />
     </task>
     <servers />
   </component>
