@@ -8,6 +8,7 @@
         <e p="Players" t="Include">
           <e p="PlayerHandler.cs" t="Include" />
         </e>
+        <e p="RedoMovement.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="Ai" t="Include">
             <e p="AINab.cs" t="Include" />
@@ -75,7 +76,6 @@
             <e p="WhileLoopTutoiral.cs" t="Include" />
           </e>
           <e p="RapidFire.cs" t="Include" />
-          <e p="RedoMovement.cs" t="Include" />
           <e p="SelfDestruct.cs" t="Include" />
           <e p="StateMachine" t="Include">
             <e p="GameAction.cs" t="Include" />

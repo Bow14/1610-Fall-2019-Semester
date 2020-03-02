@@ -4,8 +4,6 @@
 -langversion:4
 -out:'Temp/Assembly-CSharp.dll'
 -nostdlib
--r:'Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll'
--r:'Library/ScriptAssemblies/UnityEditor.StandardEvents.dll'
 -r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll'
 -r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll'
 -r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ARModule.dll'
@@ -66,10 +64,12 @@
 -r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll'
 -r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/Managed/UnityEditor.dll'
 -r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/Managed/Unity.Locator.dll'
--r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
--r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
--r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll'
+-r:'Library/ScriptAssemblies/UnityEditor.StandardEvents.dll'
+-r:'Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll'
 -r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll'
+-r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
+-r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
+-r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll'
 -r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll'
 -r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll'
 -r:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll'
@@ -179,6 +179,6 @@
 -define:UNITY_EDITOR_OSX
 -define:ENABLE_UNITY_COLLECTIONS_CHECKS
 -define:UNITY_TEAM_LICENSE
--define:ENABLE_VSTU
+'Assets/LoookAtTut.cs'
 'Assets/Trig.cs'
 -lib:'/Users/bow/Documents/Unity/2018.1.9f2/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity'
