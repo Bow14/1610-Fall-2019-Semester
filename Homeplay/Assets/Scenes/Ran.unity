@@ -3176,6 +3176,7 @@ GameObject:
   - component: {fileID: 1430785360}
   - component: {fileID: 1430785359}
   - component: {fileID: 1430785358}
+  - component: {fileID: 1430785362}
   m_Layer: 0
   m_Name: JumpPlus
   m_TagString: Untagged
@@ -3301,6 +3302,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1430785362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1430785357}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0ed6d1f26de64a228e816a68767d345, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  delay: 3
 --- !u!1001 &1447829445
 Prefab:
   m_ObjectHideFlags: 0
