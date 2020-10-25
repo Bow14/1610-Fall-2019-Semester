@@ -7,7 +7,7 @@ public class ApplyForce : MonoBehaviour
 
 	private Rigidbody rb;
 	public Vector3Data forceDirection;
-	public float force = 3f;
+	public float force = 5f;
 	// Use this for initialization
 	void Start ()
 	{
